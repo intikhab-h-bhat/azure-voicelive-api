@@ -1,0 +1,4 @@
+How it works
+The Voice live API is fully managed, eliminating the need for customers to handle backend orchestration or component integration. 
+Developers provide audio input and receive audio output, avatar visuals, and action triggers—all with minimal latency. 
+You don't need to deploy or manage any generative AI models, as the API handles all the underlying infrastructure.
